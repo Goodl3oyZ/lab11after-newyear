@@ -19,8 +19,8 @@ int main(){
 	
 	
 	cout << "In total ? students.";
-	cout << "A = " << count[0] <<",";
-	cout << "B = " << count[1] <<",";	
+	cout << "A = " << count[0] <<", ";
+	cout << "B = " << count[1] <<", ";	
 	//	and so on ... for grade = C, D, F	
 	
 	return 0;
