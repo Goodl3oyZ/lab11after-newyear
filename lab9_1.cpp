@@ -23,6 +23,5 @@ int main(){
 	cout << "B = " << count[1] <<",";	
 	//	and so on ... for grade = C, D, F	
 	
-	}
 	return 0;
 }
